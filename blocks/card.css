@@ -10,6 +10,7 @@
 .card__list-item {
   display: flex;
   gap: 5px;
+  font-family: "Noto Serif", "Times New Roman", serif;
 }
 
 .card__list {
@@ -22,4 +23,7 @@
 
 .card__title {
   margin: 0 0 32px;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 700;
 }
